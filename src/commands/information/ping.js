@@ -1,13 +1,11 @@
 const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
-    config : {
-        name : "ping",
-        description : "test command"
-    },
-    userPermissions : ['SendMessage'],
-    botPermissions : ['ViewChannels'],
-    owner : true,
+    name: "ping",
+    aliases: ["p"],
+    description: "test command",
+    userPermissions: ['SendMessages'],
+    botPermissions: ['ViewChannel'],
     run : async (client, message, args) => {
         message.reply({
             embeds : [

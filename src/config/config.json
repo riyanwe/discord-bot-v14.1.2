@@ -1,7 +1,7 @@
 {
     "client" : {
-        "authToken" : "",
-        "clientID" : ""
+        "authToken" : "OTkyODAyMTYzMjEyNDM5NjI1.GgHTPi.AUcovfd1PlYRFPQbIvAmKH_1IGb-3VztpIWEKI",
+        "clientID" : "992802163212439625"
     },
 
     "handler" : {
@@ -13,6 +13,6 @@
     },
 
     "developer" : {
-        "owner" : [""]
+        "owner" : ["915992396653813830"]
     }
 }
