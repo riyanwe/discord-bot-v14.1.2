@@ -2,7 +2,6 @@ const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
     name: "ping",
-    aliases: ["p"],
     description: "test command",
     userPermissions: ['SendMessages'],
     botPermissions: ['ViewChannel'],

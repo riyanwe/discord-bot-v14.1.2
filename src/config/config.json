@@ -1,11 +1,11 @@
 {
     "client" : {
-        "authToken" : "OTkyODAyMTYzMjEyNDM5NjI1.GgHTPi.AUcovfd1PlYRFPQbIvAmKH_1IGb-3VztpIWEKI",
-        "clientID" : "992802163212439625"
+        "authToken" : "TOKEN DISINI",
+        "clientID" : "BOT ID"
     },
 
     "handler" : {
-        "guildID" : ""
+        "guildID" : "OPTIONAL"
     },
 
     "global" : {
@@ -13,6 +13,6 @@
     },
 
     "developer" : {
-        "owner" : ["915992396653813830"]
+        "owner" : ["USER ID"]
     }
 }
