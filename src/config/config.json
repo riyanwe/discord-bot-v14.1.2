@@ -1,0 +1,18 @@
+{
+    "client" : {
+        "authToken" : "",
+        "clientID" : ""
+    },
+
+    "handler" : {
+        "guildID" : ""
+    },
+
+    "global" : {
+        "prefix" : "!"
+    },
+
+    "developer" : {
+        "owner" : [""]
+    }
+}
